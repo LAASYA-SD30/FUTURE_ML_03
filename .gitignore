@@ -1,0 +1,20 @@
+# Ignore virtual environment directories
+.venv/
+env/
+venv/
+
+# Ignore large datasets
+twcs/
+
+# Ignore common media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+
+# Ignore system files
+.DS_Store
+Thumbs.db
