@@ -1,4 +1,4 @@
-# FUTURE_DS_03 — Customer Support Chatbot (Task 3)
+# Task 3 — Customer Support Chatbot 
 
 ## Task
 Build a smart chatbot to handle real-time customer support queries using AI tools.
