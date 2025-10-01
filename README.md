@@ -22,3 +22,11 @@ python -m venv .venv
 .venv\Scripts\activate
 # macOS/Linux
 source .venv/bin/activate
+
+## FUTURE_ML_03/
+│── app.py              # Main Streamlit app (entry point)
+│── ft3.py              # Chatbot logic / helper functions
+│── requirements.txt    # Dependencies
+│── README.md           # Documentation
+│── .gitignore          # Ignore unnecessary files
+└── __pycache__/        # Ignored by git
